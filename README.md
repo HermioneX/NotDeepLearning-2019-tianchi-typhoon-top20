@@ -1,10 +1,8 @@
-# NotDeepLearning-2019-tianchi-typhoon-top20
-非深度学习之—2019天池追风少年台风卫星图像预测—光流法方案
+Non-deep learning—2019 Tianchi Zhuifeng Juvenile Typhoon Satellite Image Prediction—Optical Flow Method Solution
 
-1 SIFT 识别特征点
+1 SIFT 
 
 ![image](https://github.com/HermioneX/NotDeepLearning-2019-tianchi-typhoon-top20/blob/master/img/matches_good_match_200.jpg)
 
 ![image](https://github.com/HermioneX/NotDeepLearning-2019-tianchi-typhoon-top20/blob/master/img/matches_good_match_W_Hour_1210_3.jpg)
 
-2 光流法外推
